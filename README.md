@@ -5,7 +5,9 @@ Hey 👋🏽, I'm [Valentina!](https://vaporjawn.github.io)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValentinaSilva61&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
 ## My Skills
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-sql" height="30" width="40" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor">
