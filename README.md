@@ -18,9 +18,7 @@ Hey 👋🏽, I'm [Valentina!](https://vaporjawn.github.io)
 
 </div>
   
-  <p align="center">
-    <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
-    </p> 
+ 
 <div> 
   
   <a href = "mailto:valentinaorianasv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
